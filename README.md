@@ -168,5 +168,29 @@ I'm constantly exploring new technologies, building projects and developing prac
 > STATUS:
   MISSION IN PROGRESS...
 ```
+---
+
+# `> knowledge_base`
+
+<div align="center">
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                    KNOWLEDGE DATABASE                      ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [01] Cisco                                                ║
+║  [02] FreeCodeCamp                                         ║
+║  [03] SkillUp                                               ║
+║  [04] Linux                                                 ║
+║  [05] Cybersecurity                                         ║
+║  [06] Networking                                            ║
+║  [07] Software Development                                  ║
+║                                                            ║
+║              KNOWLEDGE BASE: EXPANDING...                  ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 </div>
