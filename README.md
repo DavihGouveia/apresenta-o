@@ -36,7 +36,7 @@
 
 <div align="center">
 
-> **"Every system can be understood. Every vulnerability can be learned from."**
+
 
 ---
 
