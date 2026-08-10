@@ -38,4 +38,63 @@
 
 > **"Every system can be understood. Every vulnerability can be learned from."**
 
+---
+
+# `> personal_information`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🧠 About Me
+
+I'm **Davih Melo Matias Gouveia**, a student of **Analysis and Systems Development (ADS)** with a strong interest in **Cybersecurity**.
+
+My interests combine software development, Linux, networking and information security.
+
+I'm constantly exploring new technologies, building projects and developing practical skills through hands-on experimentation.
+
+### Core Interests
+
+* 🛡️ Cybersecurity
+* 🌐 Computer Networks
+* 🐧 Linux & Kali Linux
+* 💻 Software Development
+* 🐍 Python
+* 🔎 Security & Networking Labs
+* ⚙️ Automation
+* 📚 Continuous Learning
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ Current System
+
+```bash
+┌──[DAVIH@CYBER-LAB]─[~]
+└─$ systemctl status davih
+
+● davih.service
+   Loaded: active
+   Status: ONLINE
+
+   ├── Cybersecurity     [ACTIVE]
+   ├── Linux             [ACTIVE]
+   ├── Networking        [ACTIVE]
+   ├── Python            [ACTIVE]
+   ├── Development       [ACTIVE]
+   └── Continuous Study  [ACTIVE]
+
+> SECURITY LEVEL: TRAINING
+> NETWORK: CONNECTED
+> SYSTEM: OPERATIONAL
+```
+
+</td>
+
+</tr>
+</table>
+
 </div>
