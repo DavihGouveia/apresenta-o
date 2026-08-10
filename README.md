@@ -139,4 +139,34 @@ I'm constantly exploring new technologies, building projects and developing prac
 
 </div>
 
+---
+
+# `> current_objectives`
+
+```bash
+┌──[DAVIH@CYBER-LAB]─[~/objectives]
+└─$ ./mission_control.sh
+
+[01] ████████████████████  CYBERSECURITY
+[02] ██████████████████░░  NETWORK SECURITY
+[03] █████████████████░░░  PYTHON & AUTOMATION
+[04] ████████████████░░░░  LINUX
+[05] ██████████████░░░░░░  SECURITY CERTIFICATIONS
+[06] ████████████░░░░░░░░  ADVANCED PROGRAMMING
+
+──────────────────────────────────────────────────────────────
+
+> PRIMARY_OBJECTIVE:
+  Become a highly skilled cybersecurity professional.
+
+> SECONDARY_OBJECTIVE:
+  Build practical projects and security laboratories.
+
+> DIRECTIVE:
+  Learn → Build → Test → Secure → Repeat
+
+> STATUS:
+  MISSION IN PROGRESS...
+```
+
 </div>
