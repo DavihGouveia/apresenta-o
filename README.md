@@ -97,4 +97,46 @@ I'm constantly exploring new technologies, building projects and developing prac
 </tr>
 </table>
 
+---
+
+# `> tech_stack`
+
+<div align="center">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,bash,html,css,js&theme=dark"/>
+
+<br><br>
+
+### 🛡️ Cybersecurity & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=linux,kali,docker&theme=dark"/>
+
+<br><br>
+
+### 🧰 Development Environment
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,githubactions,virtualbox&theme=dark"/>
+
+</div>
+
+---
+
+# `> security_stack`
+
+<div align="center">
+
+|           AREA           | TECHNOLOGIES                            |
+| :----------------------: | :-------------------------------------- |
+| 🐧 **Operating Systems** | Linux · Kali Linux                      |
+|     🌐 **Networking**    | Cisco · Packet Tracer · TCP/IP          |
+|      🔎 **Security**     | Nmap · Network Security · Security Labs |
+|    💻 **Programming**    | Python · C · C++ · Bash                 |
+|    ⚙️ **Development**    | Git · GitHub · VS Code                  |
+|   🧪 **Virtualization**  | VirtualBox                              |
+|     🤖 **Automation**    | Python · Bash                           |
+
+</div>
+
 </div>
