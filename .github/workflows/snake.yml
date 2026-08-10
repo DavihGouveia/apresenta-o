@@ -1,15 +1,12 @@
 name: Generate Snake
-
-on:
-workflow_dispatch:
+on: [workflow_dispatch]
 
 jobs:
-generate:
-runs-on: ubuntu-latest
-
-steps:
-  - name: Generate contribution snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: DavihGouveia
-      outputs: dist/github-contribution-grid-snake.svg
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: DavihGouveia
+          outputs: dist/github-contribution-grid-snake.svg
