@@ -6,6 +6,9 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Generate Snake
         uses: Platane/snk@v3
@@ -13,8 +16,9 @@ jobs:
           github_user_name: DavihGouveia
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Upload Snake
-        uses: actions/upload-artifact@v4
+      - name: Publish Snake
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          name: github-contribution-snake
-          path: dist/github-contribution-grid-snake.svg
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
