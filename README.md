@@ -194,3 +194,13 @@ I'm constantly exploring new technologies, building projects and developing prac
 </div>
 
 </div>
+
+---
+
+# `> contribution_activity`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DavihGouveia/apresenta-o/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
