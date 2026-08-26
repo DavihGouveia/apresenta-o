@@ -33,9 +33,9 @@
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 
-# `> personal_information`
+> personal_information
 
-## 🧠 About Me
+🧠 About Me
 
 I'm **Davih Melo Matias Gouveia**, a student of **Analysis and Systems Development (ADS)** with a strong interest in **Cybersecurity**.
 
