@@ -33,7 +33,7 @@
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 
-> personal_information
+> personal_information:
 
 🧠 About Me
 
@@ -43,7 +43,9 @@ My interests combine software development, Linux, networking and information sec
 
 I'm constantly exploring new technologies, building projects and developing practical skills through hands-on experimentation.
 
-### Core Interests
+---
+
+> Core Interests:
 
 - 🛡️ Cybersecurity
 - 🌐 Computer Networks
@@ -56,7 +58,7 @@ I'm constantly exploring new technologies, building projects and developing prac
 
 ---
 
-# `> current_system`
+> current_system
 
 ```bash
 ┌──[DAVIH@CYBER-LAB]─[~]
@@ -77,7 +79,9 @@ I'm constantly exploring new technologies, building projects and developing prac
 > NETWORK: CONNECTED
 > SYSTEM: OPERATIONAL
 
-# `> tech_stack`
+---
+
+> tech_stack
 
 <div align="center">
 
